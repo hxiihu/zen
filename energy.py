@@ -78,19 +78,4 @@ planned = data_manipulation(pd.DataFrame(tables[1][1:len(tables[1])], columns = 
 #write as csv file
 unplanned.to_csv("Unplanned Table.csv")
 planned.to_csv("Planned.csv")
-print("Tables saved as CSV files success.\n")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print("Tables saved as CSV files success.")
