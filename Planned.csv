@@ -1,0 +1,10 @@
+,Event ID,Message Type,Facility,Time Published,Time of Event,Expected End,Actual End,Volume impact mcm/day,Remarks
+0,20180514BN,New,Bacton,2017-11-21 10:00:00,2018-05-14 06:00:00,2018-05-15 06:00:00,null,12.5,null
+1,20180212SF,New,St Fergus,2017-06-12 17:20:00,2018-12-02 09:00:00,2018-12-02 21:00:00,null,16.0,(6-12hr plant outage for ESD testing)
+2,20180827SF,Revision,St Fergus ,2017-03-30 14:32:00,2018-08-15 06:00:00,2018-09-15 06:00:00,null,7.5,(but 50% terminal capacity reduction during single module operations)
+3,201808081SL,New,SEAL,2018-01-22 12:00:00,2018-01-08 06:00:00,2018-05-08 06:00:00,null,17.5,ESD testing & planned maintenance on SEAL at Bacton Terminal.
+4,201808081SL,Revision,SEAL,2018-06-04 11:00:00,2018-03-08 06:00:00,2018-07-08 06:00:00,null,17.5,ESD testing & planned maintenance on SEAL at Bacton Terminal.
+5,20180213SF,New,St Fergus,12.45 1/2/2018,2018-02-13 08:00:00,2018-02-13 20:00:00,null,7.5,(but 50% terminal capacity reduction during single module operations)
+6,20180212SF,Final,St Fergus,2018-12-02 23:00:00,2018-12-02 09:00:00,2018-12-02 21:00:00,2018-12-02 21:20:00,16.0,null
+7,20180213SF,Final,St Fergus,2018-02-14 14:20:00,2018-02-13 08:00:00,2018-02-13 20:00:00,2018-02-13 15:00:00,7.5,(but 50% terminal capacity reduction during single module operations).  Ramp up will take longer than normal.
+8,20180601SL,New,SEAL,2018-03-04 10:30:00,2018-01-06 06:00:00,2018-04-06 06:00:00,null,13.0,- No SEAL gas deliveries at Bacton due to unavailability of liquid export route.

@@ -1,0 +1,5 @@
+,Event ID,Message Type,Facility,Time Published,Time of Event,Expected End,Actual End,Volume impact mcm/day,Remarks
+0,20180208SL,New,SEAL,2018-08-02 06:00:00,2018-08-02 06:00:00,null,null,5.6,– No SEAL gas deliveries at Bacton due to unavailability of liquid export route. Volume impact for Shell operated offshore facility only.
+1,20180208SL,Final,SEAL,2018-08-02 23:00:00,2018-08-02 06:00:00,null,2018-08-02 22:00:00,null,Export capability returned – production restarted offshore. 
+2,20180228BN,New,Bacton,2018-02-28 11:45:00,2018-02-28 08:00:00,null,null,5.0,– Restricted gas deliveries at Bacton
+3,20180228BN,Final,Bacton,2018-02-28 18:10:00,2018-02-28 08:00:00,null,2018-02-28 17:57:00,null,Export capability returned
